@@ -1,0 +1,9 @@
+<map id="OmniOGL::SectionCollection::Get" name="OmniOGL::SectionCollection::Get">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#a8eb741628a5957199c4c511be6e4f599" title="OmniOGL::SectionCollection\l::UpdateCurrentSection" alt="" coords="283,23,472,65"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_scene.html#a4795ab65f4026f0d648075c132bcb447" title="A getter which returns a pointer to the Section object currently being occupied by the player/camera ..." alt="" coords="273,89,482,130"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_scene.html#a8601c13e69f3269928209f1ffdf2584a" title="The constructor for the Scene class. This is a fairly busy constructor since it&#39;s responsible for ini..." alt="" coords="547,5,717,32"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="531,56,733,83"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="781,56,944,83"/>
+<area shape="rect" id="node6" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="992,56,1051,83"/>
+<area shape="rect" id="node7" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="1099,56,1173,83"/>
+</map>

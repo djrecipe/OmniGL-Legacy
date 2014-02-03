@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::matrix_info",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_omni_o_g_l_1_1matrix__info.html",tooltip="A structure which stores many variables which guide and configure the rendering process. Ultimately the structure is owned by the Scene class and is passed via pointer to various RenObjs&#39; Draw() method during the main rendering loop."];
+}

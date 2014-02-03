@@ -1,0 +1,4 @@
+<map id="OmniOGL::AddDerivedObj" name="OmniOGL::AddDerivedObj">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_scene.html#a63db7f91d326ad1a20741b31417b8148" title="A template method which adds an renderable object of type T to the scene. It is assumed that T is a d..." alt="" coords="227,5,421,32"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="470,5,671,32"/>
+</map>

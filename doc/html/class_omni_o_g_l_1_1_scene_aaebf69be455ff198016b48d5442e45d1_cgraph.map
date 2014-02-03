@@ -1,0 +1,22 @@
+<map id="OmniOGL::Scene::Scene" name="OmniOGL::Scene::Scene">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_o_g_l_matrices.html#ab7fcaa03f41f75becc4a00a9f2296d57" title="OmniOGL::OGLMatrices\l::SetSRTVbo" alt="" coords="255,5,420,46"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#abe5ff24d55002e6ebffb4415d994260a" title="Sets the pointer to the value &#45;1." alt="" coords="544,76,656,103"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a80cd48382ee4083e78ba3431e570b82c" title="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..." alt="" coords="540,184,660,211"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_section.html#a048b806e5f535ddbf0dbca0b5111e65a" title="A method used to either set or retrieve the unique ID/index of the Section. This method will always r..." alt="" coords="507,352,693,379"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_scene.html#a7ad1d09b92c04fb221415d8c861e1f48" title="A private method which updates the list of indices which represent all Sections which are in close pr..." alt="" coords="225,290,450,331"/>
+<area shape="rect" id="node5" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="767,184,887,211"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_input_events.html#ada44975a5a200ea06939505fddfcf0b2" title="OmniOGL::InputEvents\l::GetInputUpdate" alt="" coords="260,458,415,499"/>
+<area shape="rect" id="node9" href="$class_omni_o_g_l_1_1_camera.html#a492000045ad0bb2973fa0590856104b7" title="A comprehensive method which checks to see if camera movement or camera orientation change is pending..." alt="" coords="246,407,429,433"/>
+<area shape="rect" id="node11" href="$class_omni_o_g_l_1_1_line_strip.html#af64b3e0837c49702b82c3b7a6c4288e4" title="Adds a line segment to the class instance using absolute coordinates for a start and end point (i..." alt="" coords="268,122,407,163"/>
+<area shape="rect" id="node13" href="$class_omni_o_g_l_1_1_scene.html#a63db7f91d326ad1a20741b31417b8148" title="A template method which adds an renderable object of type T to the scene. It is assumed that T is a d..." alt="" coords="240,524,435,551"/>
+<area shape="rect" id="node15" href="$class_omni_o_g_l_1_1_input_events.html#a5e2c671369f0eae88d61e31ec20b6a10" title="OmniOGL::InputEvents\l::Activate" alt="" coords="260,595,415,637"/>
+<area shape="rect" id="node10" href="$class_omni_o_g_l_1_1_camera.html#a698009762978100380046bf41abd45ea" title="This method rotates a 3D vector (represented by a three element float array) around another 3D vector..." alt="" coords="519,403,681,445"/>
+<area shape="rect" id="node12" href="$namespace_omni_o_g_l.html#ab790cf1cdc8d2bcbdbbe06c6d87f1a1d" title="A wrapper for the delete[] keyword. Always uses delete[], and never delete." alt="" coords="534,131,666,157"/>
+<area shape="rect" id="node14" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="499,499,701,525"/>
+<area shape="rect" id="node16" href="$class_omni_o_g_l_1_1_input_events.html#a88d861496c66f76d2dbf4008b547ab8e" title="OmniOGL::InputEvents\l::_evnt_Keybrd" alt="" coords="523,615,677,657"/>
+<area shape="rect" id="node18" href="$class_omni_o_g_l_1_1_input_events.html#a8004e6c0d7db77de53605fb526761cc9" title="OmniOGL::InputEvents\l::_evnt_MouseMov" alt="" coords="523,681,677,722"/>
+<area shape="rect" id="node20" href="$class_omni_o_g_l_1_1_input_events.html#a5bbcc2fa9e488f4e50a4186fed9b0fc4" title="OmniOGL::InputEvents\l::_evnt_MouseBtn" alt="" coords="523,550,677,591"/>
+<area shape="rect" id="node17" href="$class_omni_o_g_l_1_1_input_events.html#aa5cdedcae6b267a6c61de670d602f8fa" title="OmniOGL::InputEvents\l::evnt_Keybrd" alt="" coords="749,615,904,657"/>
+<area shape="rect" id="node19" href="$class_omni_o_g_l_1_1_input_events.html#af6143afa6b73f4a0f9447feaae2ef38c" title="OmniOGL::InputEvents\l::evnt_MouseMov" alt="" coords="749,681,904,722"/>
+<area shape="rect" id="node21" href="$class_omni_o_g_l_1_1_input_events.html#a09eb909106295408dd28e2e74d11b74f" title="OmniOGL::InputEvents\l::evnt_MouseBtn" alt="" coords="749,550,904,591"/>
+</map>

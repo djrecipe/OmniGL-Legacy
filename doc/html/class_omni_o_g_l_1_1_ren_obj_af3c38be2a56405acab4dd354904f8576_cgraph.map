@@ -1,0 +1,4 @@
+<map id="OmniOGL::RenObj::SetTexture" name="OmniOGL::RenObj::SetTexture">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_texture_master.html#a56b2b7f79786e2e26ba0d602f35d08fd" title="A static method which takes the path to a picture file as a parameter, uses the SOIL library to load ..." alt="" coords="256,5,427,46"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="475,12,595,39"/>
+</map>

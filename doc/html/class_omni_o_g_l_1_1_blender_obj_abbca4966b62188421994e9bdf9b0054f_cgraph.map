@@ -1,0 +1,5 @@
+<map id="OmniOGL::BlenderObj::BlenderObj" name="OmniOGL::BlenderObj::BlenderObj">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#a669a68a7e0b56e9d63f62b13e186ea48" title="Returns the contents of a file as a string." alt="" coords="206,5,389,32"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a80cd48382ee4083e78ba3431e570b82c" title="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..." alt="" coords="237,56,357,83"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="437,56,557,83"/>
+</map>

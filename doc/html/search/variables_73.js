@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sc_5fcamera',['sc_camera',['../class_omni_o_g_l_1_1_scene.html#adff23ef4d34257b03e9e77a5a5b99a22',1,'OmniOGL::Scene']]],
+  ['scale',['scale',['../class_omni_o_g_l_1_1_o_g_l_matrices.html#a9691ba00ac34f709b0bffeb5680d1654',1,'OmniOGL::OGLMatrices']]],
+  ['screenshot_5findex',['screenshot_index',['../class_omni_o_g_l_1_1_input_events.html#a63fecb996c99c8b8f6b231ff3779a2b8',1,'OmniOGL::InputEvents']]],
+  ['section_5fcount',['section_count',['../class_omni_o_g_l_1_1_section_collection.html#ab854f0ba47bd52631c3a4689e6a133ee',1,'OmniOGL::SectionCollection']]],
+  ['sections',['sections',['../class_omni_o_g_l_1_1_section_collection.html#a112db41f7cb22c21b5c2c34a486d6845',1,'OmniOGL::SectionCollection::sections()'],['../class_omni_o_g_l_1_1_scene.html#a41b065b90c8643db5383fae8b41d764b',1,'OmniOGL::Scene::sections()']]],
+  ['selection_5fradius',['selection_radius',['../class_omni_o_g_l_1_1_ren_obj.html#a65b79c40f06965dfa85ea8c05256c04b',1,'OmniOGL::RenObj']]],
+  ['shader_5fpgm',['shader_pgm',['../class_omni_o_g_l_1_1_scene.html#aa73cafca4ad56a49eec61143f3f1db49',1,'OmniOGL::Scene']]],
+  ['shine',['shine',['../class_omni_o_g_l_1_1_o_g_l_uniforms.html#a0352ce674b92f686e287cd9c6b0f1734',1,'OmniOGL::OGLUniforms']]],
+  ['shininess',['shininess',['../class_omni_o_g_l_1_1_material_lighting.html#a542c7d2758c840060e07d818c475271c',1,'OmniOGL::MaterialLighting::shininess()'],['../_fragment_shader_8glsl.html#a166447b6cc208e90b69ba94cba7eacfe',1,'shininess():&#160;FragmentShader.glsl']]],
+  ['size',['size',['../struct_omni_o_g_l_1_1memory__info.html#ab836300f73dc96c2184910f42164941d',1,'OmniOGL::memory_info::size()'],['../class_omni_o_g_l_1_1_text_overlay.html#a70c55c827333c656ff3341566bbddc0b',1,'OmniOGL::TextOverlay::size()']]],
+  ['sound_5fengine',['sound_engine',['../class_omni_o_g_l_1_1_scene.html#afd20350ff43192cdb6f34f151d42498d',1,'OmniOGL::Scene']]],
+  ['sound_5fobjs',['sound_objs',['../class_omni_o_g_l_1_1_scene.html#a78cfb683cd2c1f99f8ae5ca4f5666e83',1,'OmniOGL::Scene']]],
+  ['specular',['specular',['../_fragment_shader_8glsl.html#ae510881c42ca8a90070e11fc76169d13',1,'FragmentShader.glsl']]],
+  ['specular_5fcolor',['specular_color',['../class_omni_o_g_l_1_1_o_g_l_uniforms.html#a8c1ce881484dc138606a89251ca098bd',1,'OmniOGL::OGLUniforms']]],
+  ['specular_5fenabled',['specular_enabled',['../class_omni_o_g_l_1_1_o_g_l_uniforms.html#ad78c4715a99e80d657571345e254d231',1,'OmniOGL::OGLUniforms']]],
+  ['specular_5ffactor',['specular_factor',['../class_omni_o_g_l_1_1_material_lighting.html#a5c69e9e6506bda4bf5bb74d8e7d279d4',1,'OmniOGL::MaterialLighting']]],
+  ['srt',['srt',['../class_omni_o_g_l_1_1_o_g_l_attributes.html#ad5a06edda5fb6ad7797ec2254af2847d',1,'OmniOGL::OGLAttributes']]],
+  ['srt_5fcombined',['srt_combined',['../_vertex_shader_8glsl.html#ac5b7ca9b64124299785da968221431a0',1,'VertexShader.glsl']]],
+  ['stencil',['stencil',['../class_omni_o_g_l_1_1_ren_obj.html#a121fcdea3c4108873ca563cea2dbc29e',1,'OmniOGL::RenObj']]]
+];

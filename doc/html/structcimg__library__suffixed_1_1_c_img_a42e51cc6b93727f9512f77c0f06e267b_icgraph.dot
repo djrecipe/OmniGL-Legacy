@@ -1,0 +1,17 @@
+digraph "cimg_library_suffixed::CImg::is_sameXYZ"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImg::is_sameXYZ",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::is_sameXYZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ac2058502b82579e6f9e0032a7668b97c",tooltip="Test if image width, height and depth are the same as that of another image."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::is_sameXYZC",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a34ce4b03ebb160efed258a26a7d14cd5",tooltip="Test if image width, height, depth and spectrum are equal to specified values."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cimg_library_suffixed\l::CImg\< charT \>::get_warp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a90b43d4e7e872b6347abd912b60d1814",tooltip="Warp image content by a warping field ."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cimg_library_suffixed\l::CImg\< charT \>::watershed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#aa64686d26d3e168cf452891a8d083874",tooltip="Compute watershed transform."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cimg_library_suffixed\l::CImg\< charT \>::blur\l_anisotropic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#af3c29f70168c4443e3f6f887834819b0",tooltip="Blur image anisotropically, directed by a field of diffusion tensors."];
+}

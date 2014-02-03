@@ -1,0 +1,11 @@
+digraph "cimg_library_suffixed::CImg::dilate"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImg::dilate",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::get\l_dilate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ad9a1b2bfa6ec3b0b2c6280414c6fa0d0",tooltip="Dilate image by a rectangular structuring element of specified size ."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::dilate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#abfa44c33cea7cc5ca622e652430be0b6",tooltip="Dilate image by a square structuring element of specified size."];
+}

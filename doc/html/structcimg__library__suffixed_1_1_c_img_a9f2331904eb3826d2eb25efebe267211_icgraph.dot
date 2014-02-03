@@ -1,0 +1,17 @@
+digraph "cimg_library_suffixed::CImg::min_max"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImg::min_max",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::noise",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a6049c651eefc3a13b8f7d1fc3ff225d7",tooltip="Add random noise to pixel values."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::get\l_histogram",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a51f4d4decbf28f64e6be9401dc6aaabe",tooltip="Compute the histogram of pixel values ."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cimg_library_suffixed\l::CImg\< charT \>::equalize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ae9f77e60279114e1ced7fe5c7954f62b",tooltip="Equalize histogram of pixel values."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cimg_library_suffixed\l::CImg\< charT \>::get\l_projections3d",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a31c9d9f56722f8e85c83c2ad8527ef59",tooltip="Generate the 3d projection planes of the image instance."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cimg_library_suffixed\l::CImg\< charT \>::get\l_select_graph",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a50e2ce61b6a7e29577dae4f85b999d91",tooltip="Select sub-graph in a graph."];
+}

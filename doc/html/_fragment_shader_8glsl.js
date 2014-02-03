@@ -1,0 +1,27 @@
+var _fragment_shader_8glsl =
+[
+    [ "ComputeLight", "_fragment_shader_8glsl.html#a0e6ed2e7760805d7930be54615a1d02d", null ],
+    [ "main", "_fragment_shader_8glsl.html#acdef7a1fd863a6d3770c1268cb06add3", null ],
+    [ "ambient", "_fragment_shader_8glsl.html#a375a2c03f879638379430cc6a9796728", null ],
+    [ "Color", "_fragment_shader_8glsl.html#a88b4dbd2600ea905e2eab17fc29defe5", null ],
+    [ "diffuse", "_fragment_shader_8glsl.html#a4289d5f92885ec0541029a48d5bd4045", null ],
+    [ "eyepos", "_fragment_shader_8glsl.html#ad98bfb6d6a645dd037bc3d3cae4e19dd", null ],
+    [ "isblack", "_fragment_shader_8glsl.html#a5c23b0e6e714df836d71e017d32b2575", null ],
+    [ "isbumpmap", "_fragment_shader_8glsl.html#ad95a6e62622a166156038a94c4b6be26", null ],
+    [ "islambert", "_fragment_shader_8glsl.html#a5b6cd44cf509b6512267476f06d2e5a3", null ],
+    [ "islight", "_fragment_shader_8glsl.html#a4854d25e1f73f0cbc160d0b9bdd52c83", null ],
+    [ "isphong", "_fragment_shader_8glsl.html#a9ac9ee7b9dedbe91280a60da790cde02", null ],
+    [ "istex", "_fragment_shader_8glsl.html#aca76932acd59a18555649e357e73422b", null ],
+    [ "isvoxel", "_fragment_shader_8glsl.html#adb0eca685ef792769eaefe2a0a38123d", null ],
+    [ "lightcolor", "_fragment_shader_8glsl.html#ac03dac8df89350b3ff6bf783df7b3f5e", null ],
+    [ "lightposn", "_fragment_shader_8glsl.html#ab594a7fbac160d150c988113e6555ee8", null ],
+    [ "modelview", "_fragment_shader_8glsl.html#acef92f1df54762be1530dd5ecc59a358", null ],
+    [ "mynormal", "_fragment_shader_8glsl.html#adde101eab5ea6798eb484a99cd803ef7", null ],
+    [ "myvertex", "_fragment_shader_8glsl.html#a1f858c94a8da466287e95a5bb8db708c", null ],
+    [ "outColor", "_fragment_shader_8glsl.html#a679a771ec781cbcf7c959fddbc4de2e9", null ],
+    [ "shininess", "_fragment_shader_8glsl.html#a166447b6cc208e90b69ba94cba7eacfe", null ],
+    [ "specular", "_fragment_shader_8glsl.html#ae510881c42ca8a90070e11fc76169d13", null ],
+    [ "tex0", "_fragment_shader_8glsl.html#a23b0b4c4d76b7cf33f2814cc6f54162a", null ],
+    [ "tex1", "_fragment_shader_8glsl.html#aa5d2591da23431bc0f8ac69356694c4b", null ],
+    [ "Texcoord", "_fragment_shader_8glsl.html#a9f9d703c4a99e472f714414d08fefc8b", null ]
+];

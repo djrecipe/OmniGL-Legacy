@@ -1,0 +1,35 @@
+digraph "OmniOGL::Scene::Scene"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::Scene::Scene",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::_Init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#abe5ff24d55002e6ebffb4415d994260a",tooltip="Sets the pointer to the value -1."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::_New",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a5ab62a62556832433cb089126a643552",tooltip="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..."];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::dprint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183",tooltip="A &quot;clone&quot; of the well-known &#39;printf()&#39; function, with the debug routed to the &#39;OutputDebugString()&#39;..."];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="OmniOGL::Section::QueryID",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_section.html#a048b806e5f535ddbf0dbca0b5111e65a"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="OmniOGL::Scene::UpdateAdjacent\lSectionsArray",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a7ad1d09b92c04fb221415d8c861e1f48"];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="OmniOGL::Camera::Update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_camera.html#a5297961cc329d907fba5cdde9caeaefa"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="OmniOGL::Camera::raw\l_rotate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_camera.html#a9586c8003f1760de8dbfa8e3dd36e125"];
+  Node7 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="OmniOGL::LineStrip\l::AddInstance",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_line_strip.html#a653b46cd16ec770796ce2c1efdcb1e8b"];
+  Node9 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="OmniOGL::_Delete",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#af63946c78a545b22592c173479c9e0e7",tooltip="A wrapper for the delete [] keyword. Always uses delete [], and not delete. para&gt;If #define RECORD_ME..."];
+  Node10 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="OmniOGL::Scene::AddObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a7f4c04f39094430a4e9181a6829d5e6e"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="OmniOGL::Section::AddObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_section.html#a1ed2d821785c0a7490193a6d8a729bca"];
+}

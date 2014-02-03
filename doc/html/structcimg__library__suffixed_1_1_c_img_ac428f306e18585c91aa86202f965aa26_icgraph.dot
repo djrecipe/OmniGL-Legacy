@@ -1,0 +1,11 @@
+digraph "cimg_library_suffixed::CImg::is_sameYZ"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImg::is_sameYZ",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::is_sameYZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a2166a34beb1ebdce3d6ff3c58d1904be",tooltip="Test if image height and depth are the same as that of another image."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::is_sameYZC",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a9799ab2e280725d91eb6868c2650632b",tooltip="Test if image height, depth and spectrum are equal to specified values."];
+}

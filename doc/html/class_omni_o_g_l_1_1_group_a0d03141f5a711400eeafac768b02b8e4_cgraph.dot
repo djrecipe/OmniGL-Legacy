@@ -1,0 +1,13 @@
+digraph "OmniOGL::Group::Group"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::Group::Group",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::_New",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a5ab62a62556832433cb089126a643552",tooltip="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::dprint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183",tooltip="A &quot;clone&quot; of the well-known &#39;printf()&#39; function, with the debug routed to the &#39;OutputDebugString()&#39;..."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::_Init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#abe5ff24d55002e6ebffb4415d994260a",tooltip="Sets the pointer to the value -1."];
+}

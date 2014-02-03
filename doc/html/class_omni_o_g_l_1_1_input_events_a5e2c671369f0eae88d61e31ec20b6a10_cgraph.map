@@ -1,0 +1,8 @@
+<map id="OmniOGL::InputEvents::Activate" name="OmniOGL::InputEvents::Activate">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_input_events.html#a88d861496c66f76d2dbf4008b547ab8e" title="OmniOGL::InputEvents\l::_evnt_Keybrd" alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_input_events.html#a8004e6c0d7db77de53605fb526761cc9" title="OmniOGL::InputEvents\l::_evnt_MouseMov" alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_input_events.html#a5bbcc2fa9e488f4e50a4186fed9b0fc4" title="OmniOGL::InputEvents\l::_evnt_MouseBtn" alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_input_events.html#aa5cdedcae6b267a6c61de670d602f8fa" title="OmniOGL::InputEvents\l::evnt_Keybrd" alt="" coords="411,5,565,46"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_input_events.html#af6143afa6b73f4a0f9447feaae2ef38c" title="OmniOGL::InputEvents\l::evnt_MouseMov" alt="" coords="411,70,565,111"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_input_events.html#a09eb909106295408dd28e2e74d11b74f" title="OmniOGL::InputEvents\l::evnt_MouseBtn" alt="" coords="411,135,565,177"/>
+</map>

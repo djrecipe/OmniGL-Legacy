@@ -1,0 +1,17 @@
+digraph "cimg_library_suffixed::CImg::get_split"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImg::get_split",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::operator\<",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ac78ff0407d8f87c22395e18d36cebeaa",tooltip="Split image along specified axis."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::get_split",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a1fc29f96e00b42cb291e0bf3723b3161",tooltip="Split image into a list of one-column vectors, according to a specified splitting value sequence..."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_ffmpeg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a069746a2b8c8e06355b75394b64cd90f",tooltip="Save image as a video file, using the FFmpeg library."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cimg_library_suffixed\l::CImg\< charT \>::save_yuv",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a341a1d8e63e56c53087a6dcba417ec32",tooltip="Save image as a .yuv video file."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_ffmpeg_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ac71c542f1044ad02e9dedefc77854ed3",tooltip="Save volumetric image as a video, using ffmpeg external binary."];
+}

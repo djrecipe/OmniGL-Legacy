@@ -1,0 +1,7 @@
+<map id="OmniOGL::Scene::RemoveNearObject" name="OmniOGL::Scene::RemoveNearObject">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#af49673c003179e600645df9310c23108" title="OmniOGL::SectionCollection\l::RemoveNearObject" alt="" coords="276,5,465,46"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#a0dbdc05458b6c7c905b79dd847bc5e24" title="Removes a RenObj (or one of its derivates) from the Scene, only if the object [pointer] already exist..." alt="" coords="262,71,479,97"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section_collection.html#a48c15326a3435fbc853671efde647d6f" title="OmniOGL::SectionCollection\l::RemoveObject" alt="" coords="528,34,717,75"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_section.html#ac8ecd65a9d61f632f44d18df9174cf8d" title="Removes an object from the Section&#39;s collection (linked list) of objects. This method also decrements..." alt="" coords="765,34,952,75"/>
+<area shape="rect" id="node5" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="1000,41,1120,68"/>
+</map>

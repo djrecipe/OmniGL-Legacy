@@ -1,0 +1,39 @@
+digraph "cimg_library_suffixed::cimg::system"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::cimg::system",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::cimg::load_network\l_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespacecimg__library__suffixed_1_1cimg.html#ab2ac8910b61414e59f6f4bee18a5e34e",tooltip="Load file from network as a local temporary file."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ae8353b28bfbc5c4421c7adfbb98fe32f",tooltip="Load image from a file."];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cimg_library_suffixed\l::CImgList\< charT \>::load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a63bd67d8dd2301933df7decb4612916e",tooltip="Load a list from a file."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cimg_library_suffixed\l::CImg\< charT \>::load\l_graphicsmagick_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a34578e61c66a0046835660bada43e3d6",tooltip="Load image using GraphicsMagick&#39;s external tool &#39;gm&#39;."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cimg_library_suffixed\l::CImg\< charT \>::load\l_gzip_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a1f1ef95d7faa4c2c7a72d3d347f30dad",tooltip="Load gzipped image file, using external tool &#39;gunzip&#39;."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="cimg_library_suffixed\l::CImg\< charT \>::load\l_imagemagick_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a8278afa0b313d0f3465ef91dabdac549",tooltip="Load image using ImageMagick&#39;s external tool &#39;convert&#39;."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="cimg_library_suffixed\l::CImg\< charT \>::load\l_medcon_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a8306218d5edf273c822113b799fd89cc",tooltip="Load image from a DICOM file, using XMedcon&#39;s external tool &#39;medcon&#39;."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="cimg_library_suffixed\l::CImg\< charT \>::load\l_dcraw_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ae8ee2dbbc634767b37efabe0f0eb7104",tooltip="Load image from a RAW Color Camera file, using external tool &#39;dcraw&#39;."];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_gzip_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a75b46a0393ed24ed2f35521e9cf3062c",tooltip="Save image using gzip external binary."];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_graphicsmagick_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a5d6d5beef96af929d1f3fb6183d2618e",tooltip="Save image using GraphicsMagick&#39;s external binary."];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_imagemagick_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a671f9eb3622dbbcac2bb839e5e498ab2",tooltip="Save image using ImageMagick&#39;s external binary."];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="cimg_library_suffixed\l::CImg\< charT \>::save\l_medcon_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a75c077d619481ef5efd9ffb1b37a6c81",tooltip="Save image as a Dicom file."];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lload_ffmpeg_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#aa1c97a6c05ba746d02440eec0ad2e602",tooltip="Load an image from a video file using the external tool &#39;ffmpeg&#39;."];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lload_gzip_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#aae55e9a79bf2f7e08108dd200f63bf2c",tooltip="Load a gzipped list, using external tool &#39;gunzip&#39;."];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lsave_gzip_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a81d03be4e6f327bc4df5a9f9d562a4f2",tooltip="Save list as a gzipped file, using external tool &#39;gzip&#39;."];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lsave_ffmpeg_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a7ed71bed007fcbc87acdde8db8ee3c05",tooltip="Save image sequence, using the external tool &#39;ffmpeg&#39;."];
+}

@@ -1,0 +1,21 @@
+digraph "OmniOGL::RenObj::operator="
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::RenObj::operator=",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::ComplexObj\l::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_complex_obj.html#a44e2a622c5f388121b1e496f9b4e577b"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::Cube::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_cube.html#acce099f504e37ca6dec5793bfad57a77"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::Floor::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_floor.html#ab3c8340f590aa40edfcd4f35dd1656a2"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="OmniOGL::TextOverlay\l::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_text_overlay.html#aab6be2e6c6c5fac44b4417783727b44a"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="OmniOGL::LineStrip\l::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_line_strip.html#a562751dd3863c4ffb155be901f30eba3"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="OmniOGL::BlockArray\l::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_block_array.html#a47d24b04c7d893af9b3207b43bd0be2b"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="OmniOGL::Group::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_group.html#a3edf6d70731c577cdbc1e29217c5e191"];
+}

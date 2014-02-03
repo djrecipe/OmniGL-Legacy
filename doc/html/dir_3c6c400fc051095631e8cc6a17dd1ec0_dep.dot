@@ -1,0 +1,13 @@
+digraph "H:/space/c++" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c3840a19d87f3e83d19319f7240c23e9 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="space" fontname="Helvetica", fontsize="10", URL="dir_c3840a19d87f3e83d19319f7240c23e9.html"]
+  subgraph clusterdir_3c6c400fc051095631e8cc6a17dd1ec0 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_3c6c400fc051095631e8cc6a17dd1ec0.html"];
+    dir_3c6c400fc051095631e8cc6a17dd1ec0 [shape=plaintext label="c++"];
+    dir_bb4aacaa5adeef4ca691f27f7236cc95 [shape=box label="OmniOGL" color="red" fillcolor="white" style="filled" URL="dir_bb4aacaa5adeef4ca691f27f7236cc95.html"];
+  }
+  }
+}

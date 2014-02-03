@@ -1,0 +1,6 @@
+<map id="OmniOGL::Recycle" name="OmniOGL::Recycle">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#adf7da2f49b56acf0604f6146124cbda2" title="If #define RECORD_MEMORY is set to a non&#45;zero number, this function will return the maxmimum # of byt..." alt="" coords="198,5,386,32"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="443,107,563,133"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a5e7d01c2eccec5725be694aa69c2ac93" title="If #define RECORD_MEMORY is set to a non&#45;zero number, this function will return the number of bytes a..." alt="" coords="193,107,391,133"/>
+<area shape="rect" id="node5" href="$namespace_omni_o_g_l.html#ab9c488f21e10f211832f0232a44b4cef" title="Prints to the console all &quot;recorded&quot; memory allocations which have not yet been subject to _Delete()..." alt="" coords="190,157,394,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="OmniOGL::evnt_MouseBtn" name="OmniOGL::evnt_MouseBtn">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="259,5,379,32"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#af5108efeb0d59c8b63da8231e70c987f" title="In the current implementation this function must determine the derived type of the shared pointer pas..." alt="" coords="232,56,405,83"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#a63db7f91d326ad1a20741b31417b8148" title="A template method which adds an renderable object of type T to the scene. It is assumed that T is a d..." alt="" coords="453,56,648,83"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="697,56,898,83"/>
+</map>

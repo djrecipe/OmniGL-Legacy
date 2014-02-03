@@ -1,0 +1,6 @@
+<map id="OmniOGL::Scene::ToggleBumpMapping" name="OmniOGL::Scene::ToggleBumpMapping">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="259,12,461,39"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="509,12,672,39"/>
+<area shape="rect" id="node4" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="720,12,779,39"/>
+<area shape="rect" id="node5" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="827,12,901,39"/>
+</map>

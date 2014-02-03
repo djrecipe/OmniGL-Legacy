@@ -1,0 +1,4 @@
+<map id="OmniOGL::SurfaceNet::AddNeighbors" name="OmniOGL::SurfaceNet::AddNeighbors">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_net_node.html#a8c7516402f5ac053c6723e512bb7e97e" title="This method should be invoked two times for each triangle that the vertex represented by this NetNode..." alt="" coords="206,12,426,39"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_net_node.html#a16bade900879b7301129e0b202fb231c" title="A method which returns a scalar distance between the original vertex represented by this NetNode and ..." alt="" coords="475,12,693,39"/>
+</map>

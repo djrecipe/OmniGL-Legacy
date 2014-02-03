@@ -1,0 +1,7 @@
+<map id="OmniOGL::RenObj::SetOrigin" name="OmniOGL::RenObj::SetOrigin">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_voxel_field.html#af35e1fbb4908ffbe639962bce40c36a4" title="The core method of this class which initializes all voxels and populates a given BlockArray with the ..." alt="" coords="265,5,415,46"/>
+<area shape="rect" id="node3" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="480,71,539,97"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_floor.html#a636158345b20717527b337fb3e5e2924" title="Default constructor for the Floor class &#45; responsible for initializing any members owned by this clas..." alt="" coords="263,121,417,148"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#ad03a14cbdf1446c4e9300db0a18a8ebf" title="Configures lighting parameters for the Scene including the sole light&#39;s position and color..." alt="" coords="248,172,432,199"/>
+<area shape="rect" id="node4" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="587,71,661,97"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="OmniOGL::Camera::raw_rotate" name="OmniOGL::Camera::raw_rotate">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_camera.html#a909a3939c41861fe1a4c11d965660c28" title="A comprehensive method which checks to see if camera movement or camera orientation change is pending..." alt="" coords="217,31,399,57"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_scene.html#a8601c13e69f3269928209f1ffdf2584a" title="The constructor for the Scene class. This is a fairly busy constructor since it&#39;s responsible for ini..." alt="" coords="464,5,635,32"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="449,56,650,83"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="699,56,861,83"/>
+<area shape="rect" id="node6" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="909,56,968,83"/>
+<area shape="rect" id="node7" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="1017,56,1090,83"/>
+</map>

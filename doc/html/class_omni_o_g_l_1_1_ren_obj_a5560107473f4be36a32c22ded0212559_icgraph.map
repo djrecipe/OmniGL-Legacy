@@ -1,0 +1,6 @@
+<map id="OmniOGL::RenObj::factor_vec4" name="OmniOGL::RenObj::factor_vec4">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_ren_obj.html#af9a25f349be03a23bbb5fd0760a4a178" title="A setter which takes three floats as a parameter and derives three float arrays of size four to be us..." alt="" coords="259,5,463,32"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_cube.html#a00e82e577b136e70843831ac569fc19b" title="The default constructor for the Cube class. This method is responsible for initializing all members s..." alt="" coords="283,56,439,83"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_floor.html#a636158345b20717527b337fb3e5e2924" title="Default constructor for the Floor class &#45; responsible for initializing any members owned by this clas..." alt="" coords="284,107,439,133"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_block_array.html#a14765eb5f0ef34abef770f8f94a65027" title="The default constructor for this class which takes no parameters and does little but initialize vario..." alt="" coords="285,158,437,199"/>
+</map>

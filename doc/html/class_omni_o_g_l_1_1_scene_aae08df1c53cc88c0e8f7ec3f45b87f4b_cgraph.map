@@ -1,0 +1,5 @@
+<map id="OmniOGL::Scene::ApplyLighting" name="OmniOGL::Scene::ApplyLighting">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_ren_obj.html#a57b3b7f832a64b1402d9734e533e58f7" title="A setter which sets the origin of the object in 3D space, to which all vertices are relative..." alt="" coords="265,5,458,32"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_scene.html#a63db7f91d326ad1a20741b31417b8148" title="A template method which adds an renderable object of type T to the scene. It is assumed that T is a d..." alt="" coords="264,56,459,83"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="507,56,709,83"/>
+</map>

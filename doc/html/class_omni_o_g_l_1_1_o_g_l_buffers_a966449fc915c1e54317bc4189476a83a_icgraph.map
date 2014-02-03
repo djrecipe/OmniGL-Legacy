@@ -1,0 +1,12 @@
+<map id="OmniOGL::OGLBuffers::vao" name="OmniOGL::OGLBuffers::vao">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_o_g_l_attributes.html#a154bce4dbac316f03f7e21cb9d760a5d" title="OmniOGL::OGLAttributes\l::OGLAttributes" alt="" coords="491,12,661,53"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_o_g_l_attributes.html#a1aee50596b3c0ddea40ceccf6241beda" title="OmniOGL::OGLAttributes\l::ConfigureAttribute" alt="" coords="237,41,408,82"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aced7928dd8f160dffc9f6476ed46ccc7" title="OmniOGL::OGLBuffers\l::CreateVAO" alt="" coords="245,106,400,148"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#a7d647481a48be70af411ff8a5d84576c" title="OmniOGL::OGLBuffers\l::Cleanup" alt="" coords="245,172,400,213"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_ren_obj.html#a6c2070e24700dd396e828996981c9922" title="OmniOGL::RenObj::vao" alt="" coords="243,238,402,264"/>
+<area shape="rect" id="node9" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="241,288,404,315"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#a199b6195ca00c1ca4a50e3d0b9c312a3" title="OmniOGL::Scene::GlobalInitialization" alt="" coords="457,114,695,140"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#a8601c13e69f3269928209f1ffdf2584a" title="The constructor for the Scene class. This is a fairly busy constructor since it&#39;s responsible for ini..." alt="" coords="744,114,915,140"/>
+<area shape="rect" id="node10" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="547,288,605,315"/>
+<area shape="rect" id="node11" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="793,288,866,315"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="OmniOGL::Scene::Scene" name="OmniOGL::Scene::Scene">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_scene.html#a199b6195ca00c1ca4a50e3d0b9c312a3" title="OmniOGL::Scene::GlobalInitialization" alt="" coords="225,112,463,138"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_o_g_l_matrices.html#ab7fcaa03f41f75becc4a00a9f2296d57" title="OmniOGL::OGLMatrices\l::SetSRTVbo" alt="" coords="261,167,427,208"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aee0431bf99d4f232db33ad6b10780088" title="OmniOGL::OGLBuffers::vbo" alt="" coords="789,44,971,70"/>
+<area shape="rect" id="node9" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="1029,284,1149,310"/>
+<area shape="rect" id="node10" href="$namespace_omni_o_g_l.html#abe5ff24d55002e6ebffb4415d994260a" title="Sets the pointer to the value &#45;1." alt="" coords="824,385,936,412"/>
+<area shape="rect" id="node11" href="$class_omni_o_g_l_1_1_input_events.html#ada44975a5a200ea06939505fddfcf0b2" title="OmniOGL::InputEvents\l::GetInputUpdate" alt="" coords="267,491,421,532"/>
+<area shape="rect" id="node12" href="$class_omni_o_g_l_1_1_camera.html#a909a3939c41861fe1a4c11d965660c28" title="A comprehensive method which checks to see if camera movement or camera orientation change is pending..." alt="" coords="253,604,435,630"/>
+<area shape="rect" id="node14" href="$class_omni_o_g_l_1_1_section_collection.html#a8eb741628a5957199c4c511be6e4f599" title="OmniOGL::SectionCollection\l::UpdateCurrentSection" alt="" coords="249,426,439,467"/>
+<area shape="rect" id="node19" href="$class_omni_o_g_l_1_1_input_events.html#a5e2c671369f0eae88d61e31ec20b6a10" title="OmniOGL::InputEvents\l::Activate" alt="" coords="267,718,421,759"/>
+<area shape="rect" id="node26" href="$class_omni_o_g_l_1_1_scene.html#a63db7f91d326ad1a20741b31417b8148" title="A template method which adds an renderable object of type T to the scene. It is assumed that T is a d..." alt="" coords="247,852,441,878"/>
+<area shape="rect" id="node29" href="$class_omni_o_g_l_1_1_section_collection.html#abe45275bef4b3ae221ccba89da393359" title="OmniOGL::SectionCollection\l::GetGridlines" alt="" coords="249,284,439,326"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aced7928dd8f160dffc9f6476ed46ccc7" title="OmniOGL::OGLBuffers\l::CreateVAO" alt="" coords="544,167,699,208"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#a3cd416254327ba7bfe8dd27bf1758ea8" title="A simple wrapper around glGenBuffers() which also increments a global counter keeping track of how ma..." alt="" coords="544,36,699,78"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aab5c455cf9fec77c007a9b69b1c5339a" title="A simple wrapper around glGenBuffers() which also increments a global counter keeping track of how ma..." alt="" coords="544,102,699,143"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#a966449fc915c1e54317bc4189476a83a" title="OmniOGL::OGLBuffers::vao" alt="" coords="789,174,971,201"/>
+<area shape="rect" id="node13" href="$class_omni_o_g_l_1_1_camera.html#a698009762978100380046bf41abd45ea" title="This method rotates a 3D vector (represented by a three element float array) around another 3D vector..." alt="" coords="541,620,702,662"/>
+<area shape="rect" id="node15" href="$class_omni_o_g_l_1_1_section_collection.html#a2f0e17b0f75e99116daca045854d656a" title="OmniOGL::SectionCollection::Get" alt="" coords="512,518,731,545"/>
+<area shape="rect" id="node16" href="$namespace_omni_o_g_l.html#ade1ba238a31a1003412522a2769d5945" title="OmniOGL::_Valid" alt="" coords="818,452,942,478"/>
+<area shape="rect" id="node17" href="$class_omni_o_g_l_1_1_section.html#a048b806e5f535ddbf0dbca0b5111e65a" title="A method used to either set or retrieve the unique ID/index of the Section. This method will always r..." alt="" coords="787,536,973,562"/>
+<area shape="rect" id="node18" href="$class_omni_o_g_l_1_1_section_collection.html#aa4bab32a8d339d5a1e34d28b283768ff" title="OmniOGL::SectionCollection\l::UpdateAdjacentSectionsArray" alt="" coords="519,402,723,443"/>
+<area shape="rect" id="node20" href="$class_omni_o_g_l_1_1_input_events.html#a88d861496c66f76d2dbf4008b547ab8e" title="OmniOGL::InputEvents\l::_evnt_Keybrd" alt="" coords="544,751,699,792"/>
+<area shape="rect" id="node22" href="$class_omni_o_g_l_1_1_input_events.html#a8004e6c0d7db77de53605fb526761cc9" title="OmniOGL::InputEvents\l::_evnt_MouseMov" alt="" coords="544,816,699,858"/>
+<area shape="rect" id="node24" href="$class_omni_o_g_l_1_1_input_events.html#a5bbcc2fa9e488f4e50a4186fed9b0fc4" title="OmniOGL::InputEvents\l::_evnt_MouseBtn" alt="" coords="544,686,699,727"/>
+<area shape="rect" id="node21" href="$class_omni_o_g_l_1_1_input_events.html#aa5cdedcae6b267a6c61de670d602f8fa" title="OmniOGL::InputEvents\l::evnt_Keybrd" alt="" coords="803,751,957,792"/>
+<area shape="rect" id="node23" href="$class_omni_o_g_l_1_1_input_events.html#af6143afa6b73f4a0f9447feaae2ef38c" title="OmniOGL::InputEvents\l::evnt_MouseMov" alt="" coords="803,816,957,858"/>
+<area shape="rect" id="node25" href="$class_omni_o_g_l_1_1_input_events.html#a09eb909106295408dd28e2e74d11b74f" title="OmniOGL::InputEvents\l::evnt_MouseBtn" alt="" coords="803,686,957,727"/>
+<area shape="rect" id="node27" href="$class_omni_o_g_l_1_1_section_collection.html#a07c937297ecc115e498cac570d6910bd" title="OmniOGL::SectionCollection\l::AddObject" alt="" coords="527,882,716,923"/>
+<area shape="rect" id="node28" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="779,889,981,916"/>
+<area shape="rect" id="node30" href="$class_omni_o_g_l_1_1_line_strip.html#af64b3e0837c49702b82c3b7a6c4288e4" title="Adds a line segment to the class instance using absolute coordinates for a start and end point (i..." alt="" coords="552,284,691,326"/>
+<area shape="rect" id="node31" href="$namespace_omni_o_g_l.html#a80cd48382ee4083e78ba3431e570b82c" title="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..." alt="" coords="820,284,940,310"/>
+<area shape="rect" id="node32" href="$namespace_omni_o_g_l.html#ab790cf1cdc8d2bcbdbbe06c6d87f1a1d" title="A wrapper for the delete[] keyword. Always uses delete[], and never delete." alt="" coords="814,334,946,361"/>
+</map>

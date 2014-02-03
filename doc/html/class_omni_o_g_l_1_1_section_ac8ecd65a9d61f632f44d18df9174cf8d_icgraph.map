@@ -1,0 +1,10 @@
+<map id="OmniOGL::Section::RemoveObject" name="OmniOGL::Section::RemoveObject">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#a48c15326a3435fbc853671efde647d6f" title="OmniOGL::SectionCollection\l::RemoveObject" alt="" coords="240,34,429,75"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section_collection.html#af49673c003179e600645df9310c23108" title="OmniOGL::SectionCollection\l::RemoveNearObject" alt="" coords="492,5,681,46"/>
+<area shape="rect" id="node9" href="$class_omni_o_g_l_1_1_scene.html#a0dbdc05458b6c7c905b79dd847bc5e24" title="Removes a RenObj (or one of its derivates) from the Scene, only if the object [pointer] already exist..." alt="" coords="478,71,695,97"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#a9d8d02ef3d9c0e472ad5866cbbacfdac" title="Iterates through all objects in the Section which the player/user is currently in, as well as all of the persistant objects in the Scene, and attempts to find which object is within closest proximity to the camera CENTER (the point the camera is looking at). Only objects which are within a close&#45;enough proximity will qualify. The nearest qualifying object is removed from the Scene (or from the Section it occupied, if it occupied one). evnt_Keybrd()" alt="" coords="745,34,951,75"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="1001,41,1202,68"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="1251,41,1413,68"/>
+<area shape="rect" id="node7" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="1461,41,1520,68"/>
+<area shape="rect" id="node8" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="1569,41,1642,68"/>
+</map>

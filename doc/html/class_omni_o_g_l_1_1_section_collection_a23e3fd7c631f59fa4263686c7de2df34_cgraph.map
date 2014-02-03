@@ -1,0 +1,4 @@
+<map id="OmniOGL::SectionCollection::~SectionCollection" name="OmniOGL::SectionCollection::~SectionCollection">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#ab790cf1cdc8d2bcbdbbe06c6d87f1a1d" title="A wrapper for the delete[] keyword. Always uses delete[], and never delete." alt="" coords="243,12,375,39"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="424,12,544,39"/>
+</map>

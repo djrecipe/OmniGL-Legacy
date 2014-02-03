@@ -1,0 +1,4 @@
+<map id="OmniOGL::Scene::AddObject" name="OmniOGL::Scene::AddObject">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#a07c937297ecc115e498cac570d6910bd" title="OmniOGL::SectionCollection\l::AddObject" alt="" coords="248,5,437,46"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section.html#a20b4cf2c6472d59e9967aa8dbad377a4" title="Adds an object to the Section&#39;s collection (linked list) of objects. This method also increments Sect..." alt="" coords="486,12,687,39"/>
+</map>

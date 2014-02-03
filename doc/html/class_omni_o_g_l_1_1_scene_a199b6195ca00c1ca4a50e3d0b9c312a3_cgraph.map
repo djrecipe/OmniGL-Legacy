@@ -1,0 +1,7 @@
+<map id="OmniOGL::Scene::GlobalInitialization" name="OmniOGL::Scene::GlobalInitialization">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aced7928dd8f160dffc9f6476ed46ccc7" title="OmniOGL::OGLBuffers\l::CreateVAO" alt="" coords="293,5,448,46"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#a3cd416254327ba7bfe8dd27bf1758ea8" title="A simple wrapper around glGenBuffers() which also increments a global counter keeping track of how ma..." alt="" coords="293,70,448,111"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aab5c455cf9fec77c007a9b69b1c5339a" title="A simple wrapper around glGenBuffers() which also increments a global counter keeping track of how ma..." alt="" coords="293,135,448,177"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#a966449fc915c1e54317bc4189476a83a" title="OmniOGL::OGLBuffers::vao" alt="" coords="497,12,679,39"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_o_g_l_buffers.html#aee0431bf99d4f232db33ad6b10780088" title="OmniOGL::OGLBuffers::vbo" alt="" coords="497,109,679,136"/>
+</map>

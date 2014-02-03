@@ -1,0 +1,5 @@
+<map id="OmniOGL::Cube::Cube" name="OmniOGL::Cube::Cube">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#a80cd48382ee4083e78ba3431e570b82c" title="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..." alt="" coords="253,5,373,32"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_ren_obj.html#a5560107473f4be36a32c22ded0212559" title="A simple method which returns four floats in an array, the first three of which will contain the same..." alt="" coords="211,56,415,83"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="464,5,584,32"/>
+</map>

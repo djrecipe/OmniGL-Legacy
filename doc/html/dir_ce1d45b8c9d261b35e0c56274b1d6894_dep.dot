@@ -1,0 +1,9 @@
+digraph "H:/space/c++/OmniOGL/OmniOGL" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_bb4aacaa5adeef4ca691f27f7236cc95 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="OmniOGL" fontname="Helvetica", fontsize="10", URL="dir_bb4aacaa5adeef4ca691f27f7236cc95.html"]
+  dir_ce1d45b8c9d261b35e0c56274b1d6894 [shape=box, label="OmniOGL", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_ce1d45b8c9d261b35e0c56274b1d6894.html"];
+  }
+}

@@ -1,0 +1,5 @@
+<map id="OmniOGL::SectionCollection::RemoveNearObject" name="OmniOGL::SectionCollection::RemoveNearObject">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#a48c15326a3435fbc853671efde647d6f" title="OmniOGL::SectionCollection\l::RemoveObject" alt="" coords="243,5,432,46"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section.html#ac8ecd65a9d61f632f44d18df9174cf8d" title="Removes an object from the Section&#39;s collection (linked list) of objects. This method also decrements..." alt="" coords="480,5,667,46"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="715,12,835,39"/>
+</map>

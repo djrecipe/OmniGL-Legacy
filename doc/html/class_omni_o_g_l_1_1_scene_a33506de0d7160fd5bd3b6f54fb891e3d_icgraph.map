@@ -1,0 +1,3 @@
+<map id="OmniOGL::Scene::IncrementTotal" name="OmniOGL::Scene::IncrementTotal">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_group.html#a9dcdbfb8c49117647880ae13d8e051bc" title="Adds a specified number of &quot;cloned&quot; objects to the Group which will be differ by scale, rotation, and translation/location. The scale, rotation, and translation for each object is determined randomly but within a range specified by members of this class. If no parameter is passed to this method then it will generate one object by default. Group::SetScaleRanges(), Group::SetRotationRanges(), Group::SetTranslationRanges(), Group::AddInstance()" alt="" coords="245,5,448,46"/>
+</map>

@@ -1,0 +1,11 @@
+digraph "cimg_library_suffixed::CImgList::load_ffmpeg_external"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImgList::load_ffmpeg\l_external",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lload_ffmpeg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a83f41f3541d75332bbf8e84b3abc8a4f",tooltip="Load an image from a video file, using ffmpeg libraries."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lget_load_ffmpeg_external",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a9bdbb375959e220d994049785c42e9e1",tooltip="Load an image from a video file using the external tool &#39;ffmpeg&#39; ."];
+}

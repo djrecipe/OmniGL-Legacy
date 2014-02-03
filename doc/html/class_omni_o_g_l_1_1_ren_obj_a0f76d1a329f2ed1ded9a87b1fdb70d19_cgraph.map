@@ -1,0 +1,7 @@
+<map id="OmniOGL::RenObj::operator=" name="OmniOGL::RenObj::operator=">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#abe5ff24d55002e6ebffb4415d994260a" title="Sets the pointer to the value &#45;1." alt="" coords="259,5,371,32"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a80cd48382ee4083e78ba3431e570b82c" title="A wrapper around the new[] keyword. Allocates the desired number of elements to the given pointer..." alt="" coords="255,56,375,83"/>
+<area shape="rect" id="node5" href="$namespace_omni_o_g_l.html#ab790cf1cdc8d2bcbdbbe06c6d87f1a1d" title="A wrapper for the delete[] keyword. Always uses delete[], and never delete." alt="" coords="249,107,381,133"/>
+<area shape="rect" id="node6" href="$namespace_omni_o_g_l.html#ade1ba238a31a1003412522a2769d5945" title="OmniOGL::_Valid" alt="" coords="253,157,377,184"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a8f559408c62db097a1a918d7f58f4183" title="A &quot;clone&quot; of the well&#45;known printf() function, with the debug routed to the OutputDebugString() funct..." alt="" coords="429,81,549,108"/>
+</map>

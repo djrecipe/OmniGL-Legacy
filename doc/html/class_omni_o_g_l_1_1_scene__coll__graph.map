@@ -1,0 +1,12 @@
+<map id="OmniOGL::Scene" name="OmniOGL::Scene">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_camera.html" title="Provides a viewport for the player to view the scene. Stores the location and orientation of the came..." alt="" coords="504,1019,637,1141"/>
+<area shape="rect" id="node22" href="$class_omni_o_g_l_1_1_section.html" title="A 3D subsection of the rendered environment. All subsections share the same fixed size and the subjec..." alt="" coords="1666,592,1797,757"/>
+<area shape="rect" id="node23" href="$class_omni_o_g_l_1_1_input_events.html" title="Handles input events and relays relevant information back to the Scene as appropriate. InputUpdate" alt="" coords="1060,983,1214,1177"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_o_g_l_uniforms.html" title="Provides a means to send data to the graphics pipepline via interaction with shader program &quot;uniforms..." alt="" coords="284,997,450,1163"/>
+<area shape="rect" id="node20" href="$class_omni_o_g_l_1_1_o_g_l_attributes.html" title="Provides a means to send large amounts of data to the graphics pipeline via interaction with shader p..." alt="" coords="661,1012,877,1148"/>
+<area shape="rect" id="node21" href="$class_omni_o_g_l_1_1_section_collection.html" title="{OmniOGL::SectionCollection\n||+ SectionCollection()\l+ ~SectionCollection()\l+ AddObject()\l+ Draw()\l+ Get()\l+ GetCurrentSection()\l+ GetGridlines()\l+ RemoveNearObject()\l+ RemoveObject()\l+ UpdateCurrentSection()\l&#45; UpdateAdjacentSectionsArray()\l}" alt="" coords="1619,968,1830,1192"/>
+<area shape="rect" id="node25" href="$class_omni_o_g_l_1_1_input_update.html" title="Holds input&#45;event&#45;related information which needs to be relayed to the Scene. InputEvents::input_info..." alt="" coords="778,636,936,713"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_o_g_l_matrices.html" title="Stores and manipulates matrices which are used to describe various various rendering parameters (i..." alt="" coords="2090,614,2256,735"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="2258,147,2354,224"/>
+<area shape="rect" id="node18" title="STL class." alt="" coords="2379,147,2492,224"/>
+</map>

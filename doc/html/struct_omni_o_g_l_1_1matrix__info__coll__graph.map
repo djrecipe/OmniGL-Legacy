@@ -1,0 +1,7 @@
+<map id="OmniOGL::matrix_info" name="OmniOGL::matrix_info">
+<area shape="rect" id="node13" href="$class_omni_o_g_l_1_1_scene.html" title="Contains meta&#45;information for the 3D scene and handles sorting/addition/removal of objects to/from th..." alt="" coords="699,1155,913,1525"/>
+<area shape="rect" id="node14" href="$class_omni_o_g_l_1_1_camera.html" title="Provides a viewport for the player to view the scene. Stores the location and orientation of the came..." alt="" coords="1249,910,1383,1031"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_section.html" title="A 3D subsection of the rendered environment. All subsections share the same fixed size and the subjec..." alt="" coords="199,475,331,640"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="816,147,912,224"/>
+<area shape="rect" id="node17" title="STL class." alt="" coords="1266,147,1379,224"/>
+</map>

@@ -1,0 +1,23 @@
+digraph "OmniOGL::Scene::AddObject"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::Scene::AddObject",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::AddDerivedObj",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#af5108efeb0d59c8b63da8231e70c987f"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::evnt_MouseBtn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a3a42d273f9da945de1baa561983d981a"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::MakeWindow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a03177ea10e60c8e0edb883425d0f84a4"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="WinMain",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_small_o_g_l_8cpp.html#a66e65252a6985e382838442f280f46ba"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="OmniOGL::Scene::Scene",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a6776fd0b14a9677e3bc56d43436a282c"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="OmniOGL::Scene::ApplyLighting",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a0644a347dec99fbcc195862d3e1f5b7c"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="render",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_small_o_g_l_8cpp.html#a133aba9fe60f6d354d05d69e0bbd31a7"];
+  Node8 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

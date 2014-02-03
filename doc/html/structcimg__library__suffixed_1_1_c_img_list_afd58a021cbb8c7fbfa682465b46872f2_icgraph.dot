@@ -1,0 +1,9 @@
+digraph "cimg_library_suffixed::CImgList::_save_empty_cimg"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::CImgList::_save_empty_cimg",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImgList\< charT \>::\lsave_empty_cimg",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a2374572081238aa19c9987d173ac28c2",tooltip="Save empty (non-compressed) .cimg file with specified dimensions."];
+}

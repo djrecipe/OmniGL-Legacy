@@ -1,0 +1,9 @@
+<map id="OmniOGL::SectionCollection::UpdateAdjacentSectionsArray" name="OmniOGL::SectionCollection::UpdateAdjacentSectionsArray">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_section_collection.html#a8ce8d4ffbeab35bf911fb1b473cf73f2" title="OmniOGL::SectionCollection\l::SectionCollection" alt="" coords="259,5,448,46"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_section_collection.html#a8eb741628a5957199c4c511be6e4f599" title="OmniOGL::SectionCollection\l::UpdateCurrentSection" alt="" coords="259,70,448,111"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#a8601c13e69f3269928209f1ffdf2584a" title="The constructor for the Scene class. This is a fairly busy constructor since it&#39;s responsible for ini..." alt="" coords="512,52,683,79"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="497,103,698,129"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="747,103,909,129"/>
+<area shape="rect" id="node7" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="957,103,1016,129"/>
+<area shape="rect" id="node8" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="1065,103,1138,129"/>
+</map>

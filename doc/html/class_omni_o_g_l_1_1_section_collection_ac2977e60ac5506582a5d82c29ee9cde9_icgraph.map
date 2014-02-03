@@ -1,0 +1,5 @@
+<map id="OmniOGL::SectionCollection::GetCurrentSection" name="OmniOGL::SectionCollection::GetCurrentSection">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_scene.html#a79a1f16120bf2a3861530956bacc9a03" title="A getter which returns an unsigned integer representing the index of the Section that the player/came..." alt="" coords="243,5,453,46"/>
+<area shape="rect" id="node3" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="501,12,560,39"/>
+<area shape="rect" id="node4" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="609,12,682,39"/>
+</map>

@@ -1,0 +1,19 @@
+digraph "OmniOGL::Cube::Draw"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::Cube::Draw",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::RenObj::BindBufferData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_ren_obj.html#a5daafdc8cb6e1e06a4379366fb3223a1"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::RenObj::Prepare",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_ren_obj.html#a348f3ea600b31b488ee67ee7080b8327"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::Scene::GlobalTextureEn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a0d76d3bd0b63be254c1b808e58c91aba"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="OmniOGL::Scene::BumpMapEn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#ad5369cbf93989073466f9b03d8dd8233"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="OmniOGL::Scene::sTranslate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#a9e1a45ae2421bb6356c253dfbd5994eb"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="OmniOGL::Scene::UpdateSRT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_omni_o_g_l_1_1_scene.html#aa79c60ef0fe86ee0903c3c1e1525d2a5"];
+}

@@ -1,0 +1,15 @@
+digraph "OmniOGL::Scene::RemoveObject"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OmniOGL::Scene::RemoveObject",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OmniOGL::RemoveNearObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a935b24a76bf5a61c4dbc86194b759c54"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OmniOGL::evnt_Keybrd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a9a2525b1056458096e98c5608ed2f904"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OmniOGL::MakeWindow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_omni_o_g_l.html#a03177ea10e60c8e0edb883425d0f84a4"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="WinMain",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_small_o_g_l_8cpp.html#a66e65252a6985e382838442f280f46ba"];
+}

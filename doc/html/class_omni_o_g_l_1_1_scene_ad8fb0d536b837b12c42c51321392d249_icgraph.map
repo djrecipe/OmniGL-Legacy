@@ -1,0 +1,6 @@
+<map id="OmniOGL::Scene::GetOccupiedSection" name="OmniOGL::Scene::GetOccupiedSection">
+<area shape="rect" id="node2" href="$namespace_omni_o_g_l.html#a6630146f2a7cfde12d20ac50fe2f01df" title="Iterates through all objects in the Section which the player/user is currently in, as well as all of the persistant objects in the Scene, and attempts to find which object is within closest proximity to the camera CENTER (the point the camera is looking at). Only objects which are within a close&#45;enough proximity will qualify. The nearest qualifying object is removed from the Scene (or from the Section it occupied, if it occupied one). evnt_Keybrd()" alt="" coords="265,12,463,39"/>
+<area shape="rect" id="node3" href="$namespace_omni_o_g_l.html#a9a2525b1056458096e98c5608ed2f904" title="An event handler for keyboard events which is passed to glfwSetKeyCallback() as a means of handling k..." alt="" coords="513,12,671,39"/>
+<area shape="rect" id="node4" href="$namespace_omni_o_g_l.html#a03177ea10e60c8e0edb883425d0f84a4" title="OmniOGL::MakeWindow" alt="" coords="721,12,887,39"/>
+<area shape="rect" id="node5" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="937,12,1010,39"/>
+</map>

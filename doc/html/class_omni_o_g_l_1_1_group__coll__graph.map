@@ -1,0 +1,18 @@
+<map id="OmniOGL::Group" name="OmniOGL::Group">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_ren_obj.html" title="The purely virtual base class which is used to represent a single object which will potentially be re..." alt="" coords="703,955,866,1458"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_material_lighting.html" title="{OmniOGL::MaterialLighting\n||+ MaterialLighting()\l}" alt="" coords="339,620,518,697"/>
+<area shape="rect" id="node19" href="$class_omni_o_g_l_1_1_camera.html" title="Provides a viewport for the player to view the scene. Stores the location and orientation of the came..." alt="" coords="1474,598,1607,719"/>
+<area shape="rect" id="node32" href="$class_omni_o_g_l_1_1_section.html" title="A 3D subsection of the rendered environment. All subsections share the same fixed size and the subjec..." alt="" coords="3029,576,3160,741"/>
+<area shape="rect" id="node33" href="$class_omni_o_g_l_1_1_input_events.html" title="Handles input events and relays relevant information back to the Scene as appropriate. InputUpdate" alt="" coords="2006,1109,2160,1304"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_blend_function.html" title="{OmniOGL::BlendFunction\n||+ BlendFunction()\l}" alt="" coords="1279,620,1450,697"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_stencil_function.html" title="{OmniOGL::StencilFunction\n||+ StencilFunction()\l}" alt="" coords="711,620,890,697"/>
+<area shape="rect" id="node9" href="$class_omni_o_g_l_1_1_depth_function.html" title="{OmniOGL::DepthFunction\n||+ DepthFunction()\l}" alt="" coords="914,620,1086,697"/>
+<area shape="rect" id="node30" href="$class_omni_o_g_l_1_1_o_g_l_attributes.html" title="Provides a means to send large amounts of data to the graphics pipeline via interaction with shader p..." alt="" coords="2126,591,2342,727"/>
+<area shape="rect" id="node18" href="$class_omni_o_g_l_1_1_scene.html" title="Contains meta&#45;information for the 3D scene and handles sorting/addition/removal of objects to/from th..." alt="" coords="2780,1523,2972,1952"/>
+<area shape="rect" id="node31" href="$class_omni_o_g_l_1_1_section_collection.html" title="{OmniOGL::SectionCollection\n||+ SectionCollection()\l+ ~SectionCollection()\l+ AddObject()\l+ Draw()\l+ Get()\l+ GetCurrentSection()\l+ GetGridlines()\l+ RemoveNearObject()\l+ RemoveObject()\l+ UpdateCurrentSection()\l&#45; UpdateAdjacentSectionsArray()\l}" alt="" coords="2770,1095,2982,1319"/>
+<area shape="rect" id="node35" href="$class_omni_o_g_l_1_1_input_update.html" title="Holds input&#45;event&#45;related information which needs to be relayed to the Scene. InputEvents::input_info..." alt="" coords="1944,620,2102,697"/>
+<area shape="rect" id="node20" href="$class_omni_o_g_l_1_1_o_g_l_uniforms.html" title="Provides a means to send data to the graphics pipepline via interaction with shader program &quot;uniforms..." alt="" coords="2704,765,2870,931"/>
+<area shape="rect" id="node22" href="$class_omni_o_g_l_1_1_o_g_l_matrices.html" title="Stores and manipulates matrices which are used to describe various various rendering parameters (i..." alt="" coords="3007,1146,3172,1267"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="4052,620,4164,697"/>
+<area shape="rect" id="node26" title="STL class." alt="" coords="3688,147,3784,224"/>
+</map>

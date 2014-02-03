@@ -1,0 +1,9 @@
+<map id="OmniOGL::RenObj::operator=" name="OmniOGL::RenObj::operator=">
+<area shape="rect" id="node2" href="$class_omni_o_g_l_1_1_blender_obj.html#adaa4f366633bf3f03e0712ce346b6960" title="The assignment operator method. Since the BlenderObj class has no unique members this method simply i..." alt="" coords="265,5,417,46"/>
+<area shape="rect" id="node3" href="$class_omni_o_g_l_1_1_cube.html#a86352bb28ba6e31c2a1c995b30a3cd25" title="The &quot;= operator&quot; for the Cube class. This method sets all of the Cube class members of one Cube to be..." alt="" coords="251,71,432,97"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_floor.html#a2f9d6cc54ea9629077201252b2deac27" title="Assignment operator method. This method is called whenever a Floor is on the left&#45;hand side of an &#39;=&#39;..." alt="" coords="251,121,431,148"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_text_overlay.html#aac511da2435b188ccb84ae6e1de1c7f0" title="The assignment operator method for this class. This method is responsible for setting all of the memb..." alt="" coords="263,173,419,214"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_line_strip.html#a16bb6a0a3573bdd448482cf67f983e6e" title="The assignment operator method which is responsible for copying the data of one instance over to the ..." alt="" coords="272,238,411,279"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_block_array.html#aa65d78b3ff0f2d2c27011a8f057aa07d" title="The &quot;=&quot; operator method for the BlockArray class. This method copies all data from one existing Block..." alt="" coords="265,303,417,345"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_group.html#a3ed0d1f33c3001ac2c6f0f86144d71ab" title="The assignment operator method which is responsible for copying the data of one instance over to the ..." alt="" coords="248,369,435,396"/>
+</map>

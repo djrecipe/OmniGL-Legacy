@@ -1,0 +1,27 @@
+digraph "cimg_library_suffixed::cimg::temporary"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="cimg_library_suffixed\l::cimg::temporary",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="cimg_library_suffixed\l::CImg\< charT \>::at",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a5fbbe0958c5781f1435d899c6bf30511",tooltip="Access to a pixel value at a specified offset, using Dirichlet boundary conditions."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cimg_library_suffixed\l::CImg\< charT \>::atX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#ab268b898ec0f5ed89f57316b910addc6",tooltip="Access to a pixel value, using Dirichlet boundary conditions for the X-coordinate."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="cimg_library_suffixed\l::CImg\< charT \>::atXY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a6a74ca33ca9dccfcefa606dfdad3cf13",tooltip="Access to a pixel value, using Dirichlet boundary conditions for the X and Y-coordinates."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="cimg_library_suffixed\l::CImg\< charT \>::atXYZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#a2b4f32a7784aa19e8dd49ecb8c17dcb1",tooltip="Access to a pixel value, using Dirichlet boundary conditions for the X,Y and Z-coordinates."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="cimg_library_suffixed\l::CImg\< charT \>::atXYZC",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img.html#acf6a2ee83671edbdedaf0c0559fe8b79",tooltip="Access to a pixel value, using Dirichlet boundary conditions."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="cimg_library_suffixed\l::CImgList\< charT \>::\latNXYZC",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a9888c8e3b094746c4374fa02c29c899e",tooltip="Access to pixel value with Dirichlet boundary conditions."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="cimg_library_suffixed\l::CImgList\< charT \>::\latNXYZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#aeaad9c38c1e1c94f293a9b0ab499dc1b",tooltip="Access to pixel value with Dirichlet boundary conditions for the three first coordinates (pos..."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="cimg_library_suffixed\l::CImgList\< charT \>::atNXY",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#aa984c0a2f2af54bbfd0519293e275a18",tooltip="Access to pixel value with Dirichlet boundary conditions for the three first coordinates (pos..."];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="cimg_library_suffixed\l::CImgList\< charT \>::atNX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#ae0f450a9e93924b1edf690d2185cea20",tooltip="Access to pixel value with Dirichlet boundary conditions for the two first coordinates (pos..."];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="cimg_library_suffixed\l::CImgList\< charT \>::atN",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structcimg__library__suffixed_1_1_c_img_list.html#a54a04763ed30dbc82b17789816385d39",tooltip="Access to pixel value with Dirichlet boundary conditions for the first coordinates (pos)..."];
+}

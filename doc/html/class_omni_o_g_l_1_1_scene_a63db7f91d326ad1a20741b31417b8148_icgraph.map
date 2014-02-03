@@ -1,0 +1,9 @@
+<map id="OmniOGL::Scene::AddObject" name="OmniOGL::Scene::AddObject">
+<area shape="rect" id="node2" href="$_exec_8cpp.html#a38c5e7def3be6ea702581ee4a92b9cc0" title="render" alt="" coords="976,83,1035,109"/>
+<area shape="rect" id="node4" href="$class_omni_o_g_l_1_1_scene.html#a8601c13e69f3269928209f1ffdf2584a" title="The constructor for the Scene class. This is a fairly busy constructor since it&#39;s responsible for ini..." alt="" coords="272,32,443,59"/>
+<area shape="rect" id="node5" href="$class_omni_o_g_l_1_1_scene.html#ad03a14cbdf1446c4e9300db0a18a8ebf" title="Configures lighting parameters for the Scene including the sole light&#39;s position and color..." alt="" coords="524,83,708,109"/>
+<area shape="rect" id="node6" href="$class_omni_o_g_l_1_1_scene.html#ad54723f8249185236e8bc77315b3622c" title="In the current implementation this function must determine the derived type of the shared pointer pas..." alt="" coords="248,133,467,160"/>
+<area shape="rect" id="node3" href="$_exec_8cpp.html#a66e65252a6985e382838442f280f46ba" title="WinMain" alt="" coords="1083,83,1157,109"/>
+<area shape="rect" id="node7" href="$class_omni_o_g_l_1_1_scene.html#aaf90a48c617a97b06e8b75320c0271b0" title="OmniOGL::Scene::HandleInput" alt="" coords="515,133,717,160"/>
+<area shape="rect" id="node8" href="$class_omni_o_g_l_1_1_scene.html#ac65b18faabaa3d2af9a0a4b2f2fc0fe0" title="The core of the rendering loop! This method iterates through all possible containers of objects&#45;to&#45;be..." alt="" coords="765,133,928,160"/>
+</map>

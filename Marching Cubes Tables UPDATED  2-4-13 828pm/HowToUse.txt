@@ -1,0 +1,35 @@
+Marching Cubes Tutorial: lookup tables
+
+Ambiguous.lut.txt contains the numbers of cases whose complementary is changed when solving topology problems (families 3, 6, 7, 10, 12, 13)
+
+TrianlesS.lut.txt contains the indexes of interpolated vertices to draw when using standard complementary cases
+
+TrianlesA.lut.txt contains the indexes of interpolated vertices to draw when using ambiguous complementary cases
+
+format: 
+max of 5 triangles to draw: 5 triangles * 3 vertices = 15 values by entry
+TrianglesS[15*number] = v11, v12, v13, v21, v22, v23, v31, v32, v33, v41, v42, v43, v51, v52, v53
+where vij is the vertex j of the triangle i
+
+
+
+Algorithm structure:
+
+--- 1st version
+
+int cube;
+if (resolve ambiguous cases)
+	draw(TrianglesA[15*cube]);
+else
+	if (cube belongs to Ambiguous)
+		draw(reverseNormals(TrianglesA(255 - 15*cube)));
+	else
+		draw(TrianglesA[15*cube]);
+
+--- 2nd version
+
+int cube;
+if (resolve ambiguous cases)
+	draw(TrianglesA[15*cube]);
+else
+	draw(TrianglesS[15*cube]);
