@@ -10,6 +10,10 @@ int render(void)
 {
     // ~ Object Instantiation
     Scene scene;
+    BlockArray block_array;
+    BlockArray * ba = scene.AddObject(&block_array);
+    GLfloat orig_out[3]={-(GLfloat)SECTION_SIZE/2.0f,(GLfloat)SECTION_SIZE/2.0f,14.0f};
+    ba->SetOrigin(orig_out[0],orig_out[1],orig_out[2]);
     TextOverlay overlay(10.0);
     overlay.SetTexture("asciiMap.png");
     TextOverlay * bump_mapping_txt=scene.AddObject(&overlay);
@@ -23,13 +27,12 @@ int render(void)
     eye_txt->SetOrigin(10.0f,winsize[1]-100.0f,0.0f);
     TextOverlay * center_txt=scene.AddObject(&overlay);
     center_txt->SetOrigin(10.0f,winsize[1]-50.0f,0.0f);
-    BlenderObj cobj("sphere.obj",0.1f);
-    cobj.SetColor(1.0,1.0,1.0,1.0);
-    BlenderObj lotus("lotus.obj",100.0f);//
-    lotus.SetLightingEnable(true);
+    //BlenderObj cobj("sphere.obj",0.1f);
+    //cobj.SetColor(1.0,1.0,1.0,1.0);
+    //BlenderObj lotus("lotus.obj",100.0f);//
+    //lotus.SetLightingEnable(true);
     //srand((unsigned)time(0));
     // ~ Add Group of Cubes
-    GLfloat orig_out[3]={-(GLfloat)SECTION_SIZE/2.0f,(GLfloat)SECTION_SIZE/2.0f,14.0f};
     Cube cube(1000.0f);
     cube.SetTexture("box.jpg");
     cube.SetBumpMap("box_NRM.jpg");
@@ -40,7 +43,7 @@ int render(void)
     //LineStrip normals(temp_barr.GetNormals());
     //scene.AddObject(&normals);
     // ~ Capture Keyboard/Mouse Events
-	scene.SetPlacementObject(&cobj);
+	scene.SetPlacementObject(&cube);
     // ~ Init Audio
     //scene.AddSound("MemoryLane.wav",glm::vec3(light_pos_out[0],light_pos_out[1],light_pos_out[2]),500.0);
     dprint("\nINITIALIZATION COMPLETE IN %f SECONDS!\n",(GLfloat)clock()/(GLfloat)CLOCKS_PER_SEC-initial_time);
