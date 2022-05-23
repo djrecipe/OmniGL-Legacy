@@ -72,7 +72,7 @@ public:
     GLint index;
     GLint binding;
     std::map<const std::string,OGLUniformBlockElement> elements;
-    OGLUniformBlock(const std::string & name_in, std::vector<const std::string> names_in);
+    OGLUniformBlock(const std::string & name_in, std::vector<std::string> names_in);
     OGLUniformBlock(void);
     OGLUniformBlock& operator=(const OGLUniformBlock& copy_source);
     OGLUniformBlock::~OGLUniformBlock(void);
@@ -81,11 +81,11 @@ class OGLUniforms
 {
 private:
     static const std::string _block_names[];
-    static std::vector<const std::string> block_names;
+    static std::vector<std::string> block_names;
     static const std::string _source_lighting_block_names[];
-    static std::vector<const std::string> source_lighting_block_names;
+    static std::vector<std::string> source_lighting_block_names;
     static const std::string _material_lighting_block_names[];
-    static std::vector<const std::string> material_lighting_block_names;
+    static std::vector<std::string> material_lighting_block_names;
     // ~ View Uniform
     /// <summary>The unique identifier which is used to send the combined projection & view matrices to the shader program on the graphics card.</summary>
     GLint _projection_view_matrix;
@@ -125,7 +125,7 @@ private:
     //
 public:
     GLuint uniform_buffers[2];
-    std::map<const std::string,OGLUniformBlock> blocks;
+    std::map<std::string,OGLUniformBlock> blocks;
     /// <summary>The unique identifier which is used to send the combined projection & view matrices to the shader program on the graphics card.</summary>
     GLint projection_view_matrix(void);
     // ~ Texture Uniforms
@@ -225,9 +225,9 @@ class OGLBuffers_Data
 {
     friend class OGLBuffers;
 private:
-    static std::vector<const GLuint> vbo;
-    static std::vector<const GLuint> ebo;
-    static std::vector<const GLuint> vao;
+    static std::vector<GLuint> vbo;
+    static std::vector<GLuint> ebo;
+    static std::vector<GLuint> vao;
 };
 class OGLBuffers
 {

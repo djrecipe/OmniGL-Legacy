@@ -139,10 +139,9 @@ OGLUniformBlock::OGLUniformBlock(void):
 {
 }
 GLint OGLUniformBlock::block_count=1;
-OGLUniformBlock::OGLUniformBlock(const std::string & name_in, std::vector<const std::string> names_in)
+OGLUniformBlock::OGLUniformBlock(const std::string & name_in, std::vector<std::string> names_in)
 {
     this->name=name_in;
-    std::vector<std::string>::iterator i;
     GLuint counter=0;
 
     this->size=0;
@@ -155,7 +154,7 @@ OGLUniformBlock::OGLUniformBlock(const std::string & name_in, std::vector<const 
     //
     std::map<const std::string,OGLUniformBlockElement>::iterator j;
     this->elements.clear();
-    for(i=names_in.begin(); i!=names_in.end(); i++)
+    for(auto i=names_in.begin(); i!=names_in.end(); i++)
     {
         const char * chars[1]={(*i).c_str()};
         glGetUniformIndices(ShaderProgram::id(), 1, chars, &index);
@@ -186,9 +185,9 @@ OGLUniformBlock::~OGLUniformBlock(void)
 const std::string OGLUniforms::_block_names[2]={"MaterialLighting","SourceLighting"};
 const std::string OGLUniforms::_source_lighting_block_names[3]={"lightposn","lightcolor","ambient"};
 const std::string OGLUniforms::_material_lighting_block_names[3]={"diffuse","specular","shininess"};
-std::vector<const std::string> OGLUniforms::block_names(OGLUniforms::_block_names,OGLUniforms::_block_names+sizeof(OGLUniforms::_block_names)/sizeof(OGLUniforms::_block_names[0]));
-std::vector<const std::string> OGLUniforms::source_lighting_block_names(OGLUniforms::_source_lighting_block_names,OGLUniforms::_source_lighting_block_names + sizeof(OGLUniforms::_source_lighting_block_names) / sizeof(OGLUniforms::_source_lighting_block_names[0]));
-std::vector<const std::string> OGLUniforms::material_lighting_block_names(OGLUniforms::_material_lighting_block_names,OGLUniforms::_material_lighting_block_names + sizeof(OGLUniforms::_material_lighting_block_names) / sizeof(OGLUniforms::_material_lighting_block_names[0]));
+std::vector<std::string> OGLUniforms::block_names(OGLUniforms::_block_names,OGLUniforms::_block_names+sizeof(OGLUniforms::_block_names)/sizeof(OGLUniforms::_block_names[0]));
+std::vector<std::string> OGLUniforms::source_lighting_block_names(OGLUniforms::_source_lighting_block_names,OGLUniforms::_source_lighting_block_names + sizeof(OGLUniforms::_source_lighting_block_names) / sizeof(OGLUniforms::_source_lighting_block_names[0]));
+std::vector<std::string> OGLUniforms::material_lighting_block_names(OGLUniforms::_material_lighting_block_names,OGLUniforms::_material_lighting_block_names + sizeof(OGLUniforms::_material_lighting_block_names) / sizeof(OGLUniforms::_material_lighting_block_names[0]));
 OGLUniforms::OGLUniforms(void)
 {
     memset(this->uniform_buffers,-1,2*sizeof(GLuint));
@@ -211,15 +210,15 @@ OGLUniforms::OGLUniforms(void)
         this->uniform_buffers[i]=OGLBuffers::CreateVBO();
     glBindBuffer(GL_UNIFORM_BUFFER,this->uniform_buffers[0]);
     this->blocks.clear();
-    std::map<const std::string,OGLUniformBlock>::iterator j=this->blocks.end();
-    this->blocks.insert(j,std::pair<const std::string,OGLUniformBlock>(OGLUniforms::_block_names[0],OGLUniformBlock(OGLUniforms::_block_names[0],OGLUniforms::material_lighting_block_names)));
+    std::map<std::string,OGLUniformBlock>::iterator j=this->blocks.end();
+    this->blocks.insert(j,std::pair<std::string,OGLUniformBlock>(OGLUniforms::_block_names[0],OGLUniformBlock(OGLUniforms::_block_names[0],OGLUniforms::material_lighting_block_names)));
     glBufferData(GL_UNIFORM_BUFFER, this->blocks[OGLUniforms::_block_names[0]].size, nullptr, GL_DYNAMIC_DRAW);
     glUniformBlockBinding(ShaderProgram::id(),this->blocks[OGLUniforms::_block_names[0]].index,this->blocks[OGLUniforms::_block_names[0]].binding);
     glBindBufferBase(GL_UNIFORM_BUFFER,this->blocks[OGLUniforms::_block_names[0]].binding,this->uniform_buffers[0]);
     //
     glBindBuffer(GL_UNIFORM_BUFFER,this->uniform_buffers[1]);
     j=this->blocks.end();
-    this->blocks.insert(j,std::pair<const std::string,OGLUniformBlock>(OGLUniforms::_block_names[1],OGLUniformBlock(OGLUniforms::_block_names[1],OGLUniforms::source_lighting_block_names)));
+    this->blocks.insert(j,std::pair<std::string,OGLUniformBlock>(OGLUniforms::_block_names[1],OGLUniformBlock(OGLUniforms::_block_names[1],OGLUniforms::source_lighting_block_names)));
     glBufferData(GL_UNIFORM_BUFFER, this->blocks[OGLUniforms::_block_names[1]].size, nullptr, GL_STREAM_DRAW);
     glUniformBlockBinding(ShaderProgram::id(),this->blocks[OGLUniforms::_block_names[1]].index,this->blocks[OGLUniforms::_block_names[1]].binding);
     glBindBufferBase(GL_UNIFORM_BUFFER,this->blocks[OGLUniforms::_block_names[1]].binding,this->uniform_buffers[1]);
@@ -352,9 +351,9 @@ void OGLUniforms::ReleaseBuffers(void)
 }
 #pragma endregion
 #pragma region OGLBuffers_Data Class
-std::vector<const GLuint> OGLBuffers_Data::vbo;
-std::vector<const GLuint> OGLBuffers_Data::vao;
-std::vector<const GLuint> OGLBuffers_Data::ebo;
+std::vector<GLuint> OGLBuffers_Data::vbo;
+std::vector<GLuint> OGLBuffers_Data::vao;
+std::vector<GLuint> OGLBuffers_Data::ebo;
 #pragma endregion
 #pragma region OGLBuffers Class
 GLuint OGLBuffers::CreateVAO(void)
@@ -434,8 +433,7 @@ bool OGLBuffers::FreeVBO(GLuint index_in)
 {
     if(index_in==_BAD)
         return false;
-    std::vector<GLuint>::iterator i;
-    for(i=OGLBuffers::data.vbo.begin(); i!=OGLBuffers::data.vbo.end(); i++)
+    for(auto i=OGLBuffers::data.vbo.begin(); i!=OGLBuffers::data.vbo.end(); i++)
     {
         if((*i)==index_in)
         {
@@ -449,16 +447,15 @@ bool OGLBuffers::FreeVBO(GLuint index_in)
 }
 void OGLBuffers::Cleanup(void)
 {
-    std::vector<GLuint>::iterator i;
-    for(i=OGLBuffers::data.vbo.begin(); i!=OGLBuffers::data.vbo.end(); i++)
+    for(auto i=OGLBuffers::data.vbo.begin(); i!=OGLBuffers::data.vbo.end(); i++)
     {
         glDeleteBuffers(1,&(*i));
     }
-    for(i=OGLBuffers::data.ebo.begin(); i!=OGLBuffers::data.ebo.end(); i++)
+    for(auto i=OGLBuffers::data.ebo.begin(); i!=OGLBuffers::data.ebo.end(); i++)
     {
         glDeleteBuffers(1,&(*i));
     }
-    for(i=OGLBuffers::data.vao.begin(); i!=OGLBuffers::data.vao.end(); i++)
+    for(auto i=OGLBuffers::data.vao.begin(); i!=OGLBuffers::data.vao.end(); i++)
     {
         glDeleteVertexArrays(1,&(*i));
     }
