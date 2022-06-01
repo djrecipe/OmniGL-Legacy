@@ -455,6 +455,7 @@ GLint VoxelField::FillWithRandom(BlockArray & barr_in, sqlite3_stmt * stmt_in)
     SurfaceNet my_surface;
     for(GLuint i=0; i<width_cubed; i++)
     {
+		//dprint("filling random %i", i);
         GLuint z_index=i/width_squared;
         GLuint y_index=(i-z_index*width_squared)/this->width;
         GLuint x_index=i-z_index*width_squared-y_index*this->width;
@@ -474,7 +475,7 @@ GLint VoxelField::FillWithRandom(BlockArray & barr_in, sqlite3_stmt * stmt_in)
     }
 	my_surface.RelaxNodes(50);
     my_surface.BlendNormals(); 
-	my_surface.SimplifyMesh(2);
+	//my_surface.SimplifyMesh(2);
     //my_surface.BurnData(this->index_offsets,stmt_in);
     if(my_surface.vertices.size()>0)
         barr_in.UpdateVertices(my_surface.vertices,my_surface.normals,my_surface.element_indices,my_surface.colors,this->origin,this->center,this->width*this->vox_size);

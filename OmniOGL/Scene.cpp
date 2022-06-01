@@ -360,7 +360,7 @@ void SectionCollection::InstallVoxels(std::vector<GLint> x_load_in, std::vector<
         smallest_size=y_load_in.size();
     if(z_load_in.size()<smallest_size)
         smallest_size=z_load_in.size();
-    GLfloat voxel_count=50.0f;
+    GLfloat voxel_count=10.0f;
     GLfloat voxel_size=(SECTION_SIZE/voxel_count)/2.0;
     char filename[256];
     sqlite3 *db;
