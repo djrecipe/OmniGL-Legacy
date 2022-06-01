@@ -900,7 +900,7 @@ InputUpdate::InputUpdate(void)
     this->direction=0;
     this->pending_placement=false;
     this->trigger_camera_update=false;
-    this->free_cam=false;
+    this->free_cam=true;
     this->exitbool=false;
 }
 #pragma endregion
